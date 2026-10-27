@@ -1,0 +1,8 @@
+# Tableau Public installer (737 MB, exceeds GitHub 100 MB limit)
+*.dmg
+
+# macOS / Tableau temp files
+.DS_Store
+~*.twb
+*.twbr
+hyperd.log
